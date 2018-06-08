@@ -25,7 +25,7 @@ if(x=="1"){xxx="choosing-ideal-insolvency-practitioner.html"}
 if(x=="2"){xxx="types-of-insurance.html"}
 if(x=="3"){xxx="simple-ways-of-getting-winning.html"}
 if(x=="4"){xxx="monetary-policy.html"}
-if(x=="5"){xxx="ocean-harbor-insurance-complete.html"}a_to_ve[i].href="https://www.secure2link.ml/2018/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="ocean-harbor-insurance-complete.html"}a_to_ve[i].href="https://www.tunggu.xyz/2018/04/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
